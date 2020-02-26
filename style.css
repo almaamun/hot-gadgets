@@ -1,0 +1,93 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    width: 100%;
+
+}
+nav ul li a{
+    font-weight: 700;
+}
+.buy-btn{
+    background-color:black;
+    color: white;
+    font-size: 18px;
+    padding: 5px 10px;
+    
+
+}
+.buy-btn:hover{
+    background-color: orange;
+    color: white;
+
+}
+.carousel-indicators .active{
+    width: 40px;
+    background-color: orange;
+}
+.carousel-indicators li {
+    background-color: #CECECE;
+    width: 16px;
+    height: 12px;
+    border-radius: 10px;
+    border-top: none;
+    border-bottom: none;
+}
+.SeeAll{
+    color: orange;
+    font-weight: 600;
+    
+}
+.categories{
+    padding-top: 120px;
+}
+.categories-title{
+    font-weight: 700;
+}
+.card img{
+    width:100%;
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 50px rgb(244, 242, 242);
+    border-radius: 15px;
+    padding-bottom: 20px;
+}
+hr{
+    width: 86px;
+    height: 4px;
+    border-radius: 10px;
+    background-image: linear-gradient(to left, #FF9800, #ff98008a);
+}
+.cat {
+    width: 250px;
+    height: 270px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#cat1{
+    border-radius: 8px 30px;
+}
+#cat2,#cat3{
+    border-radius: 30px 8px;
+}
+
+.cat h5 {
+    font-weight: 600;
+    text-align:center;
+}
+
+.common-cat {
+    padding-top: 35px;
+}
+
+.cat-shoes {
+    padding-top: 10px;
+}
+
+.inner-margin {
+    margin-bottom: 30px;
+}
+footer{
+    margin-top:120px ;
+}
